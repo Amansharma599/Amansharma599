@@ -3,7 +3,7 @@
 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Amansharma599.Amansharma599)
-[![Github](https://img.shields.io/github/followers/Amansharma599?label=Follow&style=social)](https://github.com/dhruv9316)
+[![Github](https://img.shields.io/github/followers/Amansharma599?label=Follow&style=social)](https://github.com/Amansharma599)
 <a href="https://github.com/Amansharma599/stargazers"><img src="https://img.shields.io/github/stars/Amansharma599" alt="Stars Badge"/></a>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
