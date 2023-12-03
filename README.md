@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Aman Sharma</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=5000&lines=Hi+There!+👋+I'm+Aman+Sharma!;+Passionate+MERN-Stack-Developer;" />
+</h1>
 <h3 align ="center">Nice to meet you!</h3> 
 
 
